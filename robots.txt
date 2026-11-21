@@ -1,0 +1,1 @@
+Add explicit User-agent blocks in robots.txt allowing GPTBot, ClaudeBot, PerplexityBot, and Google-Extended.
